@@ -1,4 +1,4 @@
-G-Scores
+#G-Scores
 
 Hướng dẫn chạy dự án Django (G-Scores)
 
