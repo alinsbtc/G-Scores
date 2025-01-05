@@ -28,9 +28,9 @@
 2. Tải dữ liệu mẫu (nếu có)
     ```bash
     python manage.py import_scores diem_thi_thpt_2024.csv
-. Run the development server
+3. Run the development server
     ```bash
-   python manage.py runserver
+    python manage.py runserver
 Now, you can access the application at http://127.0.0.1:8000/.
 # Built With
 - **Django** - The web framework used
