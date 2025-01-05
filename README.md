@@ -36,9 +36,9 @@ Now, you can access the application at http://127.0.0.1:8000/.
 
 # Nhập số báo danh và kiểm tra điểm số chi tiết.
 
-- Tính năng báo cáo (Report):
+# Tính năng báo cáo (Report):
 
-# Phân chia thành 4 mức điểm:
+- Phân chia thành 4 mức điểm:
 
 
 
