@@ -32,7 +32,26 @@
     ```bash
     python manage.py runserver
 Now, you can access the application at http://127.0.0.1:8000/.
-# Built With
-- **Django** - The web framework used
-- **Bootstrap** - For responsive styling
-- **Bootstrap** Icons - For icons
+# Tính năng kiểm tra điểm số từ số báo danh:
+
+# Nhập số báo danh và kiểm tra điểm số chi tiết.
+
+- Tính năng báo cáo (Report):
+
+# Phân chia thành 4 mức điểm:
+
+
+
+# Thống kê số lượng học sinh theo từng mức điểm cho từng môn học.
+
+- Hiển thị báo cáo dạng biểu đồ.
+
+# Danh sách top 10 học sinh nhóm A (Toán, Lý, Hóa):
+
+- Liệt kê top 10 học sinh có tổng điểm cao nhất của các môn Toán, Vật Lý, Hóa Học.
+
+# Responsive Design:
+
+- Giao diện hiển thị tốt trên mọi thiết bị: máy tính, máy tính bảng, và điện thoại di động.
+
+
